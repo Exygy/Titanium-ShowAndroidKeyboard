@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: Finally a reliable way to show keyboard on Android
+author: Exygy
+license: Apache 2.0
+copyright: Exygy 2013
+
+
+# these should not be edited
+name: ti_exygy_show_keyboard_android
+moduleid: com.exygy.showkeyboard
+guid: 8585fe40-71c1-4644-af1a-2c86ac7540bf
+platform: android
+minsdk: 3.1.1.GA
